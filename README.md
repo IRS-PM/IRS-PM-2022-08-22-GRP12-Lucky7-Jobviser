@@ -22,7 +22,12 @@ Group7_Lucky7
 | Official Full Name  | Student ID (MTech Applicable) | Work Items (Who Did What) | 
 | :------------ |:---------------:| :-----|
 | Li Qinyuan | A0261801N | ? |
-| Liang Zijian  | A0262016R | ? |
+| Liang Zijian  | A0262016R | 1. Provided the initial topic of the project
+2. Completed data set processing and clustering
+3. Investigated and designed business rules
+4. Built a back-end intelligent reasoning module
+5. Realized the storage and calling of database data
+6. Designed and edited the final technical introduction video |
 | Wang Minqi  | A0261978L | Simple data processing, writing reports, making videos |
 
 
