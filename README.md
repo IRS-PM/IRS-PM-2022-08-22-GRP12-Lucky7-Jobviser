@@ -21,7 +21,7 @@ In order to solve the above problems, we have designed a career guidance and ana
 | :------------ |:---------------:| :-----|
 | Li Qinyuan | A0261801N | 1. provided the overall direction of the project; 2. implemented the frontend with Vue; 3. implemented the front and backend interfaces with Flask; 4. packaged the project 5. wrote the User guide; 6. edited the final report; 7. edited the promotion video|
 | Liang Zijian  | A0262016R | 1. Provided the initial topic of the project; 2. Completed data set processing and clustering; 3. Investigated and designed business rules; 4. Built a back-end intelligent reasoning module; 5. Realized the storage and calling of database data; 6. Designed and edited the final technical introduction video |
-| Wang Minqi  | A0261978L | Simple data processing, writing reports, making videos |
+| Wang Minqi  | A0261978L | 1.simple data processing; 2.writing reports; 3.making videos |
 
 
 ## SECTION 4 : VIDEO 
