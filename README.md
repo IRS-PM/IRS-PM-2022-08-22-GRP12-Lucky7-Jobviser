@@ -1,7 +1,9 @@
 # IRS-PM-2022-Lucky7-Jobviser
-## SECTION 1 : PROJECT TITLE
-## JOBVISER-An Intelligent Employment Analysis And Guidance System 
-## Group7_Lucky7
+## SECTION 1 : GROUP NAME & PROJECT TITLE
+### Project Title：
+JOBVISER｜An Intelligent Employment Analysis And Guidance System 
+### Group name
+Group7_Lucky7
 
 
 
