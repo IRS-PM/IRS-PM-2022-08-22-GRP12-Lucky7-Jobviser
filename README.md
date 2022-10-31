@@ -19,9 +19,9 @@ In order to solve the above problems, we have designed a career guidance and ana
 
 | Official Full Name  | Student ID (MTech Applicable) | Work Items (Who Did What) | 
 | :------------ |:---------------:| :-----|
-| Li Qinyuan | A0261801N | 1. provided the overall direction of the project; 2. implemented the frontend with Vue; 3. implemented the front and backend interfaces with Flask; 4. packaged the project 5. wrote the User guide; 6. edited the final report; 7. edited the promotion video|
+| Li Qinyuan | A0261801N | 1. Provided the overall direction of the project; 2. Implemented the frontend with Vue; 3. Implemented the front and backend interfaces with Flask; 4. Packaged the project 5. Wrote the User guide; 6. Edited the final report; 7. Edited the promotion video|
 | Liang Zijian  | A0262016R | 1. Provided the initial topic of the project; 2. Completed data set processing and clustering; 3. Investigated and designed business rules; 4. Built a back-end intelligent reasoning module; 5. Realized the storage and calling of database data; 6. Designed and edited the final technical introduction video |
-| Wang Minqi  | A0261978L | 1.simple data processing; 2.writing reports; 3.making videos |
+| Wang Minqi  | A0261978L | 1.Participated in the discussion about the theme of the project ;2.Completed simple data processing; 3. Investigated the business value of the project;4.Wrote reports;5.Wrote proposal 6.Made promotion videos |
 
 
 ## SECTION 4 : VIDEO 
